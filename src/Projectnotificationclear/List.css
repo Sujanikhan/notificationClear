@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(195, 69, 90);
+}
+.card{
+    background-color: white;
+    width: 400px;
+    height: 760px;
+    margin: auto;
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+button{
+    width: 300px;
+    background-color: pink;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: pink;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+}
+h2{
+    margin-left: 100px;
+}
+.data{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
